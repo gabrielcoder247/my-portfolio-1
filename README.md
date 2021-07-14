@@ -18,7 +18,8 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/gabrielcoder247/my-portfolio/)
+[Live Demo Link](https://github.com/gabrielcoder247/my-portfolio-1/)
+
 
 
 
