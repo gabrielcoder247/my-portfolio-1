@@ -18,12 +18,6 @@ Additional description about the project and its features.
     - linters
 
 
-
-### Live Demo
-
-[Live Demo Link](https://github.com/gabrielcoder247/my-portfolio/)
-
-
 ### Install dependancies
 Install dependancies that will css and html error and bugs for the app to run
 `npm install --save-dev hint@6.x` then run to check html error and bug `npx hint .`
@@ -45,7 +39,7 @@ Install dependancies that will css and html error and bugs for the app to run
 Contributions, issues, and feature requests are welcome!
 
 ## Support and contact details
-Contact me on gabrielcoder@gmail.com for any comments, reviews or advice.
+Contact me on gabrielcoder247@gmail.com for any comments, reviews or advice.
 
 
  MIT License
