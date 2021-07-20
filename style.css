@@ -499,6 +499,7 @@ a {
 }
 
 form {
+    /* Center the form on the page */
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -506,6 +507,8 @@ form {
     margin: 0 auto;
     width: 400px;
     padding: 1em;
+    /* border: 1px solid #CCC;
+    border-radius: 1em; */
 }
 
 ul {
@@ -520,9 +523,13 @@ input {
 
 input,
 textarea {
+    /* To make sure that all text fields have the same font settings
+     By default, textareas have a monospace font */
     font: 1em sans-serif;
+    /* Uniform text field size */
     width: 400px;
     box-sizing: border-box;
+    /* Match form field borders */
     border: 1px solid #999;
     margin-bottom: 30px;
     border-radius: 3px;
@@ -530,11 +537,14 @@ textarea {
 
 input:focus,
 textarea:focus {
+    /* Additional highlight for focused elements */
     border-color: #000;
 }
 
 textarea {
+    /* Align multiline text fields with their labels */
     vertical-align: top;
+    /* Provide space to type some text */
     height: 5em;
 }
 
@@ -542,8 +552,10 @@ textarea {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 50vh;
+    /* width: 100%;
+    height: 50vh; */
     background-color: #1A2236;
+    /* padding: 100px; */
 }
 
 .social_handles {
@@ -555,9 +567,11 @@ textarea {
 .social_handles a img {
     padding: 20px;
 }
+
 .social_handles a img:hover {
     color: #92DCDC;
 }
+
 .get_my_resume {
     display: flex;
     justify-content: space-between;
@@ -568,7 +582,9 @@ textarea {
     line-height: 24px;
     color: #92DCDC;
 }
+
 .get_my_resume img {
+    /* margin-top: -10px; */
     width: 30px;
     height: 30px;
     margin-left: 20px;
