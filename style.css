@@ -431,6 +431,7 @@ a {
     height: 813px;
     background-color: #F9F9FA;
 }
+
 .icon-geometry {
     display: flex;
     justify-content: flex-start;
@@ -450,6 +451,7 @@ a {
     flex-direction: column;
     align-items: center;
 }
+
 .get_started_header {
     font-family: "Playfair Display";
     font-size: 50px;
@@ -457,6 +459,7 @@ a {
     font-weight: 400;
     color: #1A2236;
 }
+
 .get_started_text {
     font-family: "Poppins";
     font-size: 14px;
@@ -465,6 +468,7 @@ a {
     line-height: 21px;
     width: 380px;
 }
+
 .btn {
     width: 400px;
     height: 70px;
@@ -481,13 +485,65 @@ a {
     border: 0;
     border-radius: 5px;
 }
+
 .btn:hover {
     border: solid 1px #1A2236;
     background-color: #fff;
     color: #1A2236;
 }
+
 .btn:active {
     border: solid 3px #1A2236;
     background-color: #fff;
     color: #1A2236;
+}
+
+form {
+    /* Center the form on the page */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-between;
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    /* border: 1px solid #CCC;
+    border-radius: 1em; */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+input {
+    height: 50px;
+}
+
+input,
+textarea {
+    /* To make sure that all text fields have the same font settings
+     By default, textareas have a monospace font */
+    font: 1em sans-serif;
+    /* Uniform text field size */
+    width: 400px;
+    box-sizing: border-box;
+    /* Match form field borders */
+    border: 1px solid #999;
+    margin-bottom: 30px;
+    border-radius: 3px;
+}
+
+input:focus,
+textarea:focus {
+    /* Additional highlight for focused elements */
+    border-color: #000;
+}
+
+textarea {
+    /* Align multiline text fields with their labels */
+    vertical-align: top;
+    /* Provide space to type some text */
+    height: 5em;
 }
