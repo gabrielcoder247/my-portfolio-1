@@ -515,7 +515,7 @@ input {
 
 textarea {
   vertical-align: top;
-  height: 5em;
+  height: 8em;
 }
 
 input,
@@ -524,8 +524,8 @@ textarea {
   width: 400px;
   box-sizing: border-box;
   border: 1px solid #999;
-  margin-bottom: 30px;
-  border-radius: 3px;
+  margin-bottom: 15px;
+  border-radius: 4px;
 }
 
 input:focus,
