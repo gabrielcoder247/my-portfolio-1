@@ -106,7 +106,7 @@
         height: 100px;
         font-family: 'Playfair Display', sans-serif;
         margin-left: 50px;
-        margin-bottom: -100px;
+        margin-bottom: -50px;
         font-style: normal;
         font-weight: normal;
         font-size: 50px;
@@ -147,7 +147,7 @@
         border: 0;
         border-radius: 5px;
     }
-    .grid-container {
+    .mobile-grid-container {
         display: grid;
         grid-template-rows: auto auto auto auto;
     }
@@ -563,12 +563,6 @@
         grid-area: 'about-me';
         margin-top: 200px;
     }
-    /* .empty_box {
-    margin-top: 100px;
-    } */
-    .main {}
-    .collaboration {}
-    .image-dots {}
     .geometry {
         display: none;
     }
@@ -594,5 +588,104 @@
         align-self: start;
         margin-top: -20px;
         margin-right: 20px;
+    }
+    .mobile-grid-container {
+        display: none;
+    }
+    .desktop_container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(7, 1fr);
+        width: 100%;
+    }
+    .small_laptop {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+        width: 100px;
+        height: 100px;
+    }
+    .dot_geometry {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        width: 100px;
+        height: 100px;
+        margin-left: 10px;
+        padding: 0px;
+    }
+    .dot_geometry p {
+        color: #1A2236;
+        font-family: "Poppins", sans-serif;
+        font-size: 110px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        writing-mode: tb-rl;
+        transform: rotate(-180deg);
+    }
+    .small_laptop {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+        margin-top: 80px;
+        margin-left: 100px;
+    }
+    .laptop_mobile {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+    }
+    .smaller_laptop {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+        width: 100px;
+        height: 100px;
+    }
+    .right_geometry {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+        width: 100px;
+        height: 100px;
+    }
+    .small_geometry {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+        width: 100px;
+        height: 100px;
+    }
+    .last_laptop {
+        background-image: url(images/Rectangle-21screen.png);
+        background-repeat: no-repeat;
+        width: 100px;
+        height: 100px;
+    }
+    .dots-geometry {
+        /* background-image: url(images/image-geometry__2.png);
+        background-repeat: no-repeat; */
+        width: 100%;
+        height: 100%;
+        margin-top: -13px;
+    }
+    .dots-geometry img {
+        width: 65%;
+        height: 90%;
+        padding: 0px;
+        margin-left: -60px;
+    }
+    .bg_workstation {
+        grid-column: 2/4;
+    }
+    .proj_name {
+        grid-column: 2/4;
+        width: 960px;
+        height: 300px;
+        background: #1A2236F2;
+        margin-top: -10px;
+    }
+    .img_workstation img {
+        width: 960px;
+        height: 300px;
     }
 }
