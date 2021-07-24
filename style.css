@@ -354,6 +354,10 @@ h3 {
   color: #1a2236;
 }
 
+.desktop-collaboration-btn {
+  display: none;
+}
+
 .detail {
   font-size: 18px;
   font-style: normal;
@@ -1215,5 +1219,10 @@ textarea:focus {
     margin-right: -50px;
     margin-top: -20px;
     color: #fff;
+  }
+
+  .headline .name:hover {
+    transform: scale(2);
+    margin-left: 12px;
   }
 }
