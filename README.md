@@ -49,7 +49,7 @@ Install dependancies that will css and html error and bugs for the app to run
 Contributions, issues, and feature requests are welcome!
 
 ## Support and contact details
-Contact me on gabrielcoder247@gmail.com for any comments, reviews or advice.
+Contact me on gabrielcoder247@gmail.com for any comments, reviews
 
 
  MIT License
