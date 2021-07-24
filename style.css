@@ -676,10 +676,6 @@ textarea:focus {
         font-size: 20px;
         width: 50%;
     }
-    .headline .name h1:hover {
-        transform: scale(2);
-        margin-left: 12px;
-    }
     .geometry {
         display: none;
     }
@@ -1139,5 +1135,8 @@ textarea:focus {
         margin-right: -50px;
         margin-top: -20px;
         color: #fff;
+    }
+    .headline .name:hover {
+        transform: scale(2);
     }
 }
