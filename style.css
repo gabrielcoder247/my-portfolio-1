@@ -1138,5 +1138,6 @@ textarea:focus {
     }
     .headline .name:hover {
         transform: scale(2);
+        margin-left: 12px;
     }
 }
