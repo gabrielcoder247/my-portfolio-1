@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# My portfolio
-
- #### A simple skeleton of my portfolio application
- #### Created on: july, 14th,  2021
+## `My portfolio mobile version skeleton`
 
 
 
 ![screenshot](images/my-portfolio-1.png)
 
 Additional description about the project and its features.
+### This is my portfolio mobile version skeleton
+ - I added the Html, Css, Linters.
+ - I parsed figma prototype design to get the design data
+ - Then added test.md and node_modules, to the .gitignore file
 
 
 ### Technologies used
@@ -42,8 +42,6 @@ Install dependancies that will css and html error and bugs for the app to run
 
 ### 🤝 Contributing
 
- `Daniel Majesty Owiri`
-- GitHub: [@githubhandle](https://github.com/dannieMo)
 
 
 Contributions, issues, and feature requests are welcome!
@@ -52,6 +50,7 @@ Contributions, issues, and feature requests are welcome!
 Contact me on gabrielcoder247@gmail.com for any comments, reviews
 
 
- MIT License
+## 📝 License
 
+This project is [MIT](MIT.md) licensed.
 
