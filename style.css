@@ -1,52 +1,51 @@
-@media all and (max-width: 500px) {
-  body {
+body {
     box-sizing: border-box;
-  }
+}
 
-  header > * {
+header>* {
     display: flex;
     align-items: center;
     justify-content: space-between;
-  }
+}
 
-  .single-shape .triangle {
+.single-shape .triangle {
     background-image: url(images/triangle.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
-  }
+}
 
-  .single-shape .square {
+.single-shape .square {
     margin-left: -40px;
     background-image: url(images/square.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
-  }
+}
 
-  nav .icon {
+nav .icon {
     background-image: url(images/ic_menu.png);
     background-repeat: no-repeat;
     width: 111px;
     height: 74px;
     margin-left: 425px;
     margin-top: -50px;
-  }
+}
 
-  .single-shape {
+.single-shape {
     width: 111px;
     height: 74px;
-  }
+}
 
-  .headline {
+.headline {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-  }
+}
 
-  .headline .name {
+.headline .name {
     width: 220px;
     height: 100px;
     margin-right: 330px;
@@ -55,21 +54,21 @@
     font-size: 50px;
     color: #1a2236;
     line-height: 0.9;
-  }
+}
 
-  .headline button:hover {
+.headline button:hover {
     border: solid 1px #1a2236;
     background-color: #fff;
     color: #1a2236;
-  }
+}
 
-  .headline button:active {
+.headline button:active {
     border: solid 3px #1a2236;
     background-color: #fff;
     color: #1a2236;
-  }
+}
 
-  .headline .main {
+.headline .main {
     width: 380px;
     height: 126px;
     font-style: normal;
@@ -82,9 +81,9 @@
     align-self: flex-end;
     text-align: justify;
     margin-right: 150px;
-  }
+}
 
-  .headline .collaboration {
+.headline .collaboration {
     width: 400px;
     height: 70px;
     background: #1a2236;
@@ -98,5 +97,4 @@
     border: 0;
     border-radius: 5px;
     margin-bottom: 200px;
-  }
 }
