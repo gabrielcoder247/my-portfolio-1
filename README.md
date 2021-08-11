@@ -2,7 +2,7 @@
 
 # My portfolio
 
- #### A simple skeleton of my portfolio application
+ #### A simple skeleton of my portfolio website
 
 
 
