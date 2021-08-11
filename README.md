@@ -35,7 +35,7 @@ Install dependancies that will css and html error and bugs for the app to run
 
 👤 **Author**
 
-`Gabriel Nwachukwu`
+`Gabriel Nwachukwu `
 
 - GitHub: [@githubhandle](https://github.com/gabrielcoder247)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-nwachukwu-209613173/)
