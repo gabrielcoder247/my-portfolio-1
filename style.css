@@ -13,19 +13,6 @@
         align-items: center;
         justify-content: space-between;
     }
-    /* .icon {
-        display: flex;
-        justify-content: flex-start;
-        background-image: url(images/image_geometry_3.png);
-        background-repeat: no-repeat;
-        width: 100px;
-        height: 100px;
-        background-size: contain;
-        background-position: center;
-        padding: 5px;
-        margin-top: -20px;
-        margin-left: -55px;
-    } */
     .single-shape .triangle {
         background-image: url(images/triangle.png);
         height: 100%;
