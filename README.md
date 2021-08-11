@@ -2,7 +2,6 @@
 
 ## `My portfolio mobile version skeleton`
 
-> One paragraph statement about the project.
 
 ![screenshot](images/my-portfolio-1.png)
 
@@ -21,7 +20,7 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-##### To set up on you locally on you machine `Git pull` then run on th browser
+##### To set up locally on your machine `Git pull` then run on th browser
 
 
 
