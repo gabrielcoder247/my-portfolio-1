@@ -52,7 +52,5 @@ Contributions, issues, and feature requests are welcome!
 Contact me on gabrielcoder247@gmail.com for any comments, reviews
 
 
- MIT License
-
 
 
