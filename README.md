@@ -2,8 +2,9 @@
 
 # My portfolio
 
- #### A simple skeleton of my portfolio website
 
+ #### A simple skeleton of my portfolio application
+ #### Created on: july, 14th,  2021
 
 
 
@@ -33,23 +34,27 @@ Install dependancies that will css and html error and bugs for the app to run
 
 
 
-👤 **Author**
 
-`Gabriel Nwachukwu`
+
+👤 **By Gabriel Nwachukwu**
 
 - GitHub: [@githubhandle](https://github.com/gabrielcoder247)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-nwachukwu-209613173/)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/gabrielcoder247)
 
 ### 🤝 Contributing
-
-
 
 Contributions, issues, and feature requests are welcome!
 
 ## Support and contact details
-Contact me on gabrielcoder247@gmail.com for any comments, reviews
+Contact me on gabrielcoder247@gmail.com for any comments, reviews.
 
 
- This MIT  project is [MIT](MIT.md) Licensed.
+ ## 📝 License
+
+This project is [MIT](MIT.md) licensed.
+
+
+
 
 
